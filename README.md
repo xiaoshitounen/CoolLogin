@@ -7,6 +7,6 @@
 
 - **难度：新手。**
 
-- **博客发布处：[Android项目4：炫酷登录](https://fanandjiu.com/Android%E9%A1%B9%E7%9B%AE4%EF%BC%9A%E7%82%AB%E9%85%B7%E7%99%BB%E5%BD%95/#more)**
+- **博客发布处：[Android项目4：炫酷登录](http://www.fanandjiu.com/article/ff691013.html)**
 
 
